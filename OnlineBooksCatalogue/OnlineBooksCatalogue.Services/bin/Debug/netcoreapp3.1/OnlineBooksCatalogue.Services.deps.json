@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OnlineBooksCatalogue.Services/1.0.0": {
+        "dependencies": {
+          "OnlineBooksCatalogue.Core": "1.0.0"
+        },
+        "runtime": {
+          "OnlineBooksCatalogue.Services.dll": {}
+        }
+      },
+      "OnlineBooksCatalogue.Core/1.0.0": {
+        "runtime": {
+          "OnlineBooksCatalogue.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineBooksCatalogue.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineBooksCatalogue.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

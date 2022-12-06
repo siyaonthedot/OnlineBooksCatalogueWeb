@@ -1,0 +1,17 @@
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Services.deps.json
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Services.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Services.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Core.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Core.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.csproj.AssemblyReference.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.AssemblyInfoInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.AssemblyInfo.cs
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.csproj.CoreCompileInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.csproj.CopyComplete
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\refint\OnlineBooksCatalogue.Services.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\OnlineBooksCatalogue.Services.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\net6.0\ref\OnlineBooksCatalogue.Services.dll

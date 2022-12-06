@@ -1,0 +1,17 @@
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.deps.json
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.runtimeconfig.json
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Core.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\bin\Debug\net6.0\OnlineBooksCatalogue.Core.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.AssemblyInfo.cs
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.csproj.CopyComplete
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\refint\OnlineBooksCatalogue.Infrastructure.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\OnlineBooksCatalogue.Infrastructure.genruntimeconfig.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Infrastructure\obj\Debug\net6.0\ref\OnlineBooksCatalogue.Infrastructure.dll

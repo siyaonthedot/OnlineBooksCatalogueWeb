@@ -1,0 +1,13 @@
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.deps.json
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.pdb
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.csproj.AssemblyReference.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.AssemblyInfoInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.AssemblyInfo.cs
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.csproj.CoreCompileInputs.cache
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.csproj.CopyComplete
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.dll
+C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Services\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Services.pdb
