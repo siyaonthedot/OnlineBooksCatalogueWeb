@@ -58,7 +58,7 @@ namespace OnlineBooksCatalogue.Controllers
                     else
                     {
                         ModelState.Clear();
-                        ModelState.AddModelError(string.Empty, "Username or Password is Incorrect");
+                        ModelState.AddModelError(string.Empty, "User is not registared");
                         return View();
                     }
                 }

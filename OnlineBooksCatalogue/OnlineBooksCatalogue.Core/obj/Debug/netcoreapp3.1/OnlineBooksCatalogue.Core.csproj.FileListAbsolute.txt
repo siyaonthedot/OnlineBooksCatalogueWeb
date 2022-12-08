@@ -8,3 +8,13 @@ C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\D
 C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.csproj.CoreCompileInputs.cache
 C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.dll
 C:\Users\mbamb\source\repos\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.pdb
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.deps.json
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.dll
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\bin\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.pdb
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.csproj.AssemblyReference.cache
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.AssemblyInfoInputs.cache
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.AssemblyInfo.cs
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.csproj.CoreCompileInputs.cache
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.dll
+C:\Dev\GitRepo\OnlineBooksCatalogue\OnlineBooksCatalogue.Core\obj\Debug\netcoreapp3.1\OnlineBooksCatalogue.Core.pdb
