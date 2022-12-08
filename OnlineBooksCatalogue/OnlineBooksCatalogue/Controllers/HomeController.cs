@@ -5,11 +5,8 @@ using Newtonsoft.Json;
 using OnlineBooksCatalogue.Models;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
 using System.Net.Http;
 using System.Text;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace OnlineBooksCatalogue.Controllers
@@ -34,21 +31,23 @@ namespace OnlineBooksCatalogue.Controllers
             return View(user);
         }
 
-        // Method to Display Userlogin Page
+       
         [HttpGet]
         public ActionResult Index()
         {
             UserInfo user = new UserInfo();
             return View(user);
         }
-        // Method to authenticate user login
+        
         [HttpPost]
         public async Task<IActionResult> Index(UserInfo user)
         {
             using (HttpClient client = new HttpClient())
             {
-                StringContent content = new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
-                string endpoint = apiBaseUrl; //+ "/login";
+
+             StringContent content = new StringContent(JsonConvert.SerializeObject(user),
+                    Encoding.UTF8, "application/json");
+                string endpoint = apiBaseUrl; 
                 using (var Response = await client.PostAsync(endpoint, content))
                 {
                     if (Response.StatusCode == System.Net.HttpStatusCode.OK)
@@ -66,14 +65,14 @@ namespace OnlineBooksCatalogue.Controllers
             }
         }
 
-        // Method to display Displaying UserSignup Page
+       
         [HttpGet]
         public ActionResult Signup()
         {
             UserInfo user = new UserInfo();
             return View(user);
         }
-        //Method to Insert User Credentials to Database
+        
         [HttpPost]
 
         public async Task<IActionResult> Signup(UserInfo user)
@@ -82,7 +81,8 @@ namespace OnlineBooksCatalogue.Controllers
             List<UserInfo> list = new List<UserInfo>();
             using (HttpClient client = new HttpClient())
             {
-                StringContent content = new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
+            StringContent content = new StringContent(JsonConvert.SerializeObject(user),
+                    Encoding.UTF8, "application/json");
                 string endpoint = apiBaseUrl + "/SignUp";
                 using (var Response = await client.PostAsync(endpoint, content))
                 {
